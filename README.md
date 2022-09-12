@@ -1,2 +1,2 @@
-# PMyProject
+# MyProject
 This is my learning repository
